@@ -7,6 +7,7 @@ This backend application enables users to effortlessly upload various types of f
 <p>
   <img src='https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
   <img src='https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white'/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65.svg?style=for-the-badge&logo=EJS&logoColor=black"/>
 </p>
 
 ## How to Run
