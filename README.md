@@ -15,7 +15,7 @@ This backend application enables users to effortlessly upload various types of f
 1. Clone the Repository: Clone this repository to your local machine.
 
 ```
-https://github.com/Eduardo-JP-Ferreira/File-Uploads.git
+https://github.com/Eduardo-JP-Ferreira/API-File-Uploads.git
 ```
 
 2. Install Dependencies: Navigate to the project directory and install the required dependencies.
